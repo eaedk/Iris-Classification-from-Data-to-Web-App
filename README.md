@@ -18,7 +18,7 @@ To setup this project, you need to have [`Python3`](https://www.python.org/) on 
 
 - Run the Streamlit app (being at the repository root):
 
-        streamlit run streamlit_app.py
+        streamlit run src/streamlit_app.py
 
 - Go to your browser at the following address :
         
