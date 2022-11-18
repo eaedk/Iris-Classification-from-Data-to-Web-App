@@ -34,7 +34,7 @@ def load_ml_items():
 
 
 #Config 
-tmp_df_file = os.path.join(DIRPATH, "tmp", "data.csv")
+tmp_df_file = os.path.join(DIRPATH, '..' ,"tmp", "data.csv")
 setup(tmp_df_file)
 
 loaded_object = load_ml_items()
